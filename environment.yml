@@ -1,0 +1,6 @@
+name: baseball_data
+channels:
+- !!python/unicode
+  'defaults'
+prefix: !!python/unicode 'C:\Users\Plo\Anaconda2\envs\baseball_data'
+
